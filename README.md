@@ -15,8 +15,6 @@ project-root/
 ├── client/        # Frontend React App
 │   ├── src/
 │   │   ├── components/   # UI Components
-│   │   ├── pages/        # Page-level views
-│   │   ├── services/     # Axios API calls
 │   │   └── App.js
 │   └── package.json
 │
