@@ -21,6 +21,7 @@ project-root/
 └── server/        # Backend Express API
     ├── models/    # Mongoose Schemas
     ├── routes/    # Express Routes
+    ├── controllers/    # controllers Routes
     ├── server.js  # Entry point
     └── package.json
 ```
